@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <RootNamespace>PowerTrader.Trader</RootNamespace>
+    <AssemblyName>pt_trader</AssemblyName>
+    <Nullable>disable</Nullable>
+    <WarningLevel>3</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PowerTrader.Core\PowerTrader.Core.csproj" />
+  </ItemGroup>
+
+</Project>

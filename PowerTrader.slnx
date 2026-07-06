@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PowerTrader.Core/PowerTrader.Core.csproj" />
+  <Project Path="PowerTrader.Hub/PowerTrader.Hub.csproj" />
+  <Project Path="PowerTrader.Thinker/PowerTrader.Thinker.csproj" />
+  <Project Path="PowerTrader.Trader/PowerTrader.Trader.csproj" />
+  <Project Path="PowerTrader.Trainer/PowerTrader.Trainer.csproj" />
+</Solution>
